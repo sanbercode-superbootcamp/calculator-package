@@ -1,0 +1,21 @@
+{
+  "name": "calculator-arifintahu",
+  "version": "1.0.1",
+  "description": "Simple calculator with mocha testing method",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start" : "node index.js"
+  },
+  "keywords": [
+    "calculator",
+    "testing",
+    "mocha"
+  ],
+  "author": "arifintahu",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.1",
+    "sinon": "^7.5.0"
+  }
+}
