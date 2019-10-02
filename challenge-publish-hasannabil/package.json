@@ -1,0 +1,15 @@
+{
+  "name": "challenge-publish-hasannabil",
+  "version": "1.0.6",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "hasannabil",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1"
+  }
+}
