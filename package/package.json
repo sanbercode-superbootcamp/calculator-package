@@ -1,0 +1,16 @@
+{
+  "name": "day2sanber-calculator-nandyo",
+  "version": "1.0.4",
+  "description": "Tugas Day 2 Bootcamp Sanbercode",
+  "main": "index.js",
+  "dependencies": {
+	"chai": "^4.2.0",
+    "mocha": "^6.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "me",
+  "license": "ISC"
+}
