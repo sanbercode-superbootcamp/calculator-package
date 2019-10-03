@@ -1,0 +1,15 @@
+{
+  "name": "testing-sj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tes.js",
+  "dependencies": {
+    "day2sanber-calculator-nandyo": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC"
+}
