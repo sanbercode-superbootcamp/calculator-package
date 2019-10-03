@@ -1,0 +1,17 @@
+{
+  "name": "rob-simple-calc",
+  "version": "1.0.2",
+  "description": "just an exactly simple calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "calculator"
+  ],
+  "author": "Robith Ritz",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  }
+}

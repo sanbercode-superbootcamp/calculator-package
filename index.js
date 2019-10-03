@@ -1,0 +1,1 @@
+module.exports.calculator = require('./src/calculator');
