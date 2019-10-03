@@ -25,7 +25,7 @@ describe('Calculator', function() {
       result.should.equal(-5);
     });
 
-    it ('should return string for division of string by number', function() {
+    it ('should return string for addition of string and number', function() {
       var result = calculator.plus('a', 2);
       expect(result).to.be.a('string');
     });
@@ -37,7 +37,7 @@ describe('Calculator', function() {
       result.should.equal(2);
     });
 
-    it ('shouldn\'t return 3 for 4 + 2', function() {
+    it ('shouldn\'t return 3 for 4 - 2', function() {
       var result = calculator.minus(4, 2);
       result.should.not.equal(3);
     });
