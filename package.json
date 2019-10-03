@@ -1,0 +1,14 @@
+{
+  "name": "tugas-calculator",
+  "version": "1.0.0",
+  "description": "Tugas Super Bootcamp Hari Kedua",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "risma",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.1"
+  }
+}
