@@ -1,0 +1,19 @@
+{
+  "name": "tugas-publish-hilmihi",
+  "version": "1.0.0",
+  "description": "tugas bootcamp h2",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "tugas"
+  ],
+  "author": "hilmihi",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.1",
+    "sinon": "^7.5.0"
+  }
+}
